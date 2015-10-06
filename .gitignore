@@ -1,0 +1,7 @@
+DerivedDataCache/
+Intermediate/
+Saved/
+
+IgnoreTest/DerivedDataCache/
+IgnoreTest/Intermediate/
+IgnoreTest/Saved/
