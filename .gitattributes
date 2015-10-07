@@ -6,3 +6,4 @@ Binaries/ filter=lfs diff=lfs merge=lfs -text
 *.pch filter=lfs diff=lfs merge=lfs -text
 Content/ filter=lfs diff=lfs merge=lfs -text
 ProjectGAIA/Content/ filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
